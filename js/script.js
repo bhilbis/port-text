@@ -23,7 +23,7 @@ window.onload = function() {
 
     var messages = [
         'Hey there 👋',
-        'I\'m Flexsy',
+        'I\'m Flexsy Bilbis',
         'I design and code things on the web',
         'You can find me on <a target="_blank" href="https://www.linkedin.com/in/flexsy-bilbis-triwibowo/">LinkedIn</a>, <a target="_blank" href="https://instagram.com/net_flxsy">Instagram</a> and <a target="_blank" href="https://github.com/bhilbis">GitHub</a>',
         'Or contact me directly at <a href="mailto:bhilbis123@gmail.com">bhilbis123@gmail.com</a>',
